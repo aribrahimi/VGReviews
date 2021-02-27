@@ -2,5 +2,5 @@ from django.shortcuts import render
 from django.http import HttpResponse
 
 
-def hello(request):
-    return HttpResponse('Hello World!!!!!')
+def frontpage(request):
+    return render(request,'blog/frontpage.html')
