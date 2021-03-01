@@ -22,5 +22,5 @@
 
 ### Build
 - Docker build ( tested with 20.10.2)
-- pushed to Dockerhub https://hub.docker.com/r/aribrahimi/vgreviews-blog
+- pushed to Dockerhub https://hub.docker.com/r/aribrahimi/vgreviews_web
 
